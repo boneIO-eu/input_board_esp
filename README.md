@@ -1,5 +1,7 @@
 # Input Board ESP
 
+![IPEsp](.resources/boneio_esp.png)
+
 This repository contains input board for boneIO ESP Home Automation software.
 
 It is powered by 24V DC.
