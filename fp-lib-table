@@ -4,4 +4,5 @@
   (lib (name "switch")(type "KiCad")(uri "${KIPRJMOD}/Library/switch")(options "")(descr ""))
   (lib (name "rs485")(type "KiCad")(uri "${KIPRJMOD}/Library/rs485.pretty")(options "")(descr ""))
   (lib (name "Library2")(type "KiCad")(uri "${KIPRJMOD}/Library")(options "")(descr ""))
+  (lib (name "CR2032")(type "KiCad")(uri "${KIPRJMOD}/Library/CR2032")(options "")(descr ""))
 )
